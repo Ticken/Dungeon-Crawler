@@ -1,0 +1,4 @@
+#Sun Sep 16 21:26:32 EDT 2018
+base.0=C\:\\Users\\Thomas\\Documents\\AndroidStudioProjects\\Dungeon Crawler\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
